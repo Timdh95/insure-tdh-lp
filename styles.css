@@ -27,6 +27,10 @@ h1, h2, h3{
     font-family: 'DM Serif Display';
 }
 
+p{
+    line-height:23px;
+}
+
 .header{
     position: sticky;
     width: 100%;
@@ -415,8 +419,8 @@ h2{
         background: linear-gradient(
     to bottom,
     #2d2640 0%,
-    #2d2640 85%,
-    white 85%,
+    #2d2640 80%,
+    white 80%,
     white 100%
   )!important;
     height: 100vh;
